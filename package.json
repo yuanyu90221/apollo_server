@@ -14,7 +14,7 @@
   "author": "json",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.9.9",
+    "apollo-server": "^2.14.2",
     "graphql": "^14.5.8"
   },
   "devDependencies": {
